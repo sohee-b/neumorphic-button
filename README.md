@@ -14,6 +14,8 @@
 
 ## Usage
 This is just a sample code, Not a framework.  
-But feel free to contribute :)
+But feel free to contribute :)  
+
+A ⭐️ would be appreciated.
 
 <br>
